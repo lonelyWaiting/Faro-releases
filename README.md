@@ -1,0 +1,1 @@
+# Faro release assets
